@@ -9,7 +9,7 @@ http://bva.iptviptv.site:9694/hls/453/index.m3u8
 http://bva.iptviptv.site:9694/hls/451/index.m3u8
 #EXTINF:-1,广东卫视
 http://bva.iptviptv.site:9694/hls/450/index.m3u8
-#EXTINF:-1,广东新闻
+#EXTINF:-1,广东新闻-暂时失效
 http://bva.iptviptv.site:9694/hls/454/index.m3u8
 #EXTINF:-1,CCTV-1 综合
 http://bva.iptviptv.site:9694/hls/1/index.m3u8
