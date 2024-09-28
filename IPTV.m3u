@@ -1,19 +1,17 @@
 #EXTM3U
 #EXTINF:-1,翡翠台(广电)
 http://bva.iptviptv.site:9694/hls/99/index.m3u8
-#EXTINF:-1,翡翠台(原版)
-http://bva.iptviptv.site:9694/hls/98/index.m3u8
 #EXTINF:-1,无线新闻台
 http://bva.iptviptv.site:9694/hls/906/index.m3u8
 #EXTINF:-1,广州综合
 http://bva.iptviptv.site:9694/hls/453/index.m3u8
-#EXTINF:-1,广东卫视
-http://bva.iptviptv.site:9694/hls/450/index.m3u8
 #EXTINF:-1,广东珠江
 http://bva.iptviptv.site:9694/hls/451/index.m3u8
+#EXTINF:-1,广东卫视
+http://bva.iptviptv.site:9694/hls/450/index.m3u8
 #EXTINF:-1,广东新闻
-http://219.128.49.2:9901/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
+http://bva.iptviptv.site:9694/hls/454/index.m3u8
 #EXTINF:-1,CCTV-1 综合
 http://bva.iptviptv.site:9694/hls/1/index.m3u8
 #EXTINF:-1,CCTV-13 新闻
-http://219.128.49.2:9901/tsfile/live/0013_1.m3u8?key=txiptv&playlive=1&authid=0
+http://bva.iptviptv.site:9694/hls/13/index.m3u8
