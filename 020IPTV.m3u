@@ -97,5 +97,11 @@ http://219.128.49.2:9901/tsfile/live/0136_1.m3u8?key=txiptv&playlive=1&authid=0
 http://219.128.49.2:9901/tsfile/live/0118_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1,内蒙古卫视
 http://219.128.49.2:9901/tsfile/live/0109_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1,广州综合高清
+http://120.77.205.62:8087/udp/239.253.43.71:5146
+#EXTINF:-1,广州新闻高清
+http://120.77.205.62:8087/udp/239.253.43.72:5146
+
+
 #EXTINF:-1,青海卫视
 http://219.128.49.2:9901/tsfile/live/0140_1.m3u8?key=txiptv&playlive=1&authid=0
